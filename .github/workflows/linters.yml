@@ -5,10 +5,10 @@ on:
 branches:
   - main
   - develop 
-pull-requests:
+pull-request:
   branches:
     - main
-    - develop
+    - dev
 env:
   FORCE_COLOR: 1
 jobs:
