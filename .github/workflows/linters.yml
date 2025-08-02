@@ -8,7 +8,7 @@ branches:
 pull-requests:
   branches:
     - main
-    - dev
+    - develop
 env:
   FORCE_COLOR: 1
 jobs:
